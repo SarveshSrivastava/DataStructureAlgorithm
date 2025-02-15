@@ -1,4 +1,4 @@
-package dataStructureAlgorithm.Stack;
+package dataStructure.Stack;
 
 public class Main {
 

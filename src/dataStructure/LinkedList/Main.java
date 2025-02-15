@@ -1,4 +1,4 @@
-package dataStructureAlgorithm.LinkedList;
+package dataStructure.LinkedList;
 
 public class Main {
 

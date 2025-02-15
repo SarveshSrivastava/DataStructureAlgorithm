@@ -1,4 +1,4 @@
-package dataStructureAlgorithm.Hashtable;
+package dataStructure.Hashtable;
 
 import java.util.ArrayList;
 

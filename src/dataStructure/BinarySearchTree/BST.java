@@ -1,4 +1,4 @@
-package dataStructureAlgorithm.BinarySearchTree;
+package dataStructure.BinarySearchTree;
 
 public class BST {
 
